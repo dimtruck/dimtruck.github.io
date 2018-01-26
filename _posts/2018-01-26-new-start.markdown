@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "A new start"
+date:   2018-01-26 03:34:44 +0000
+categories: blog intro
+---
+It's been a few years since I've blogged consistently, and with a new year, I decided to write about a number of topics I've been working through.  One says that the best way to work through a problem is to write it down so hopefully during this year the problems from years past can see their conclusions through prose.  My goal is to update this blog once a week (mainly on weekends) so stay tuned!.
