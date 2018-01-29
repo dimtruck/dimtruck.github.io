@@ -8,7 +8,7 @@ categories: teamwork work onboarding
 
 ## Intro
 
-In my career, I've been lucky enough to work in a number of companies in significant range of roles and responsibilities.  Even within same companies, I've moved (and been moved) around different products.  As of 2018, I can count on working on 12 different products (averaging about 1 a year).  The positives of these moves are many with a few of them listed below.
+In my career, I've been lucky enough to work in a number of companies in significant range of roles and responsibilities.  Even within same companies, I've moved (and been moved) around different products.  As of 2018, I have worked on 12 different products (averaging about 1 a year).  The positives of these moves are many with a few of them listed below.
 
 ## Benefits
 
